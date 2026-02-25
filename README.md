@@ -2,7 +2,7 @@
 
 This content is for basic pthread: Thread Creation, Management & Lifecycle
 #Resources
-1. [An Introduction to Parallel Programming2011.pdf](./An Introduction to Parallel Programming2011.pdf)
+1. [[An Introduction to Parallel Programming2011.pdf](https://github.com/HopingR/pthread/blob/main/An%20Introduction%20to%20Parallel%20Programming2011.pdf)](./An Introduction to Parallel Programming2011.pdf)
 2. https://engineering.purdue.edu/~smidkiff/ece563/slides/PThreads.pdf
 3. https://courses.grainger.illinois.edu/cs241/sp2013/lecture/15-Pthread-Examples_sol.pdf
    

@@ -27,13 +27,13 @@ Resources are cleaned. Now pthread_join() unblocks
 pthread.h library--> Include the POSIX Thread (Pthreads) API definitions." without, it throw error in compilation.error: unknown type name 'pthread_t',
 It provides declarations (not implementations) of thread-related functions and types [demo]
 
-Thread Data Types:
+pthread Data Types:
 pthread_t  //handle to a thread.Internally (implementation-dependent), it may store: A numeric ID, A pointer to thread control block, Without pthread_t, can't track the thread.
 pthread_attr_t
 pthread_mutex_t
 pthread_cond_t
 
-Thread Functions:
+pthread Functions:
 int pthread_create(...) //Creates a new thread that executes a specified function.
 int pthread_join(...) //pthread_join() waits for a specific thread to terminate. It blocks the calling thread (here: main thread)
 int pthread_exit(...) //Terminates the calling thread.
@@ -62,3 +62,4 @@ int main() {
     printf("Back in main thread.\n");
     return 0;
 }
+

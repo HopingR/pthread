@@ -6,7 +6,7 @@ This content is for basic pthread: Thread Creation, Management & Lifecycle
 1. [An Introduction to Parallel Programming2011.pdf](https://github.com/HopingR/pthread/blob/main/An%20Introduction%20to%20Parallel%20Programming2011.pdf)
 2. https://engineering.purdue.edu/~smidkiff/ece563/slides/PThreads.pdf
 3. https://courses.grainger.illinois.edu/cs241/sp2013/lecture/15-Pthread-Examples_sol.pdf
-4. Note : [https://github.com/HopingR/pthread/blob/main/pthread.pdf](https://github.com/HopingR/pthread/blob/main/pthread.pdf)
+4. Note : [pthread.pdf](https://github.com/HopingR/pthread/blob/main/pthread.pdf)
    
 #Note
 1. AI is used to generate for conceptual explanation and program code example
